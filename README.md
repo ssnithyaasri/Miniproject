@@ -46,6 +46,9 @@ IDE: Use of VSCode or Jupyter Notebook for coding, debugging, and testing machin
 ![image](https://github.com/user-attachments/assets/b9afb1a7-3d37-4c29-a6dd-cdc1ad841644)
 
 #### Predicting Hazardous :
+![image](https://github.com/user-attachments/assets/c6b37c33-43f2-46ce-a69f-e434fb10f398)
+![image](https://github.com/user-attachments/assets/18e3e1f8-c13d-4eda-ab9c-44f561b8d09c)
+
 
 
 
