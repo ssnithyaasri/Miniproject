@@ -33,26 +33,34 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+## Output1 -Test Accuracy before using Gradient descent:
+![image](https://github.com/user-attachments/assets/83c552a7-0802-4096-b3c3-5729602c7c58)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
+
+## Output2 -Test Accuracy after Gradient Descent :
+![image](https://github.com/user-attachments/assets/cd24c358-aa6a-419b-8593-cfe439004d85)
+
+#### Predicting Not-Hazardous:
+![image](https://github.com/user-attachments/assets/b98b3df4-2b85-4408-a827-7db92f7a643a)
+![image](https://github.com/user-attachments/assets/b9afb1a7-3d37-4c29-a6dd-cdc1ad841644)
+
+#### Predicting Hazardous :
+
+
+
+Detection Accuracy: 95.31%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
-## Results and Impact
+## Results and Impact:
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+Results: The asteroid hazard prediction model, utilizing logistic regression and gradient descent optimization, achieves an accuracy score of 95.31%, demonstrating high precision in classifying asteroids as hazardous or non-hazardous. With the application of advanced data preprocessing techniques like feature scaling, normalization, and feature selection, the model efficiently processes asteroid datasets. Cross-validation and performance metrics, such as precision, recall, and F1-score, further validate the model's robustness.ble digital environment.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Impact:The project delivers a transformative contribution to planetary defense by providing an exceptionally accurate and automated solution for asteroid hazard classification. With an impressive accuracy of 95.31%, the model significantly enhances the precision of risk assessments, empowering space agencies and planetary defense organizations to identify hazardous asteroids with unparalleled reliability. This automation streamlines the process, drastically reducing the time and financial resources traditionally required for manual asteroid analysis, thereby offering a far more cost-effective and efficient approach to monitoring asteroid threats. Furthermore, the project contributes to the advancement of research in asteroid detection and hazard prediction, offering critical insights and laying a robust foundation for future innovations and developments in planetary defense frameworks.
 
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+## Articles published / Reference:
 
 
 
